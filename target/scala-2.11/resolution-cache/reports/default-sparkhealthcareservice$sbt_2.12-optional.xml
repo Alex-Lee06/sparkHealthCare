@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="sparkhealthcareservice$sbt_2.12"
+		revision="2.2"
+		conf="optional"
+		confs="compile, runtime, test, provided, optional"
+		date="20180824163810"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
